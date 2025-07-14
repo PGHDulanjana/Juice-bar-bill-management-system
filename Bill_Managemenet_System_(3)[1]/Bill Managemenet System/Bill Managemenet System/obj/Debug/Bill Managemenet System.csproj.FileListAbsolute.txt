@@ -1,0 +1,28 @@
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\bin\Debug\Bill Managemenet System.exe.config
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\bin\Debug\Bill Managemenet System.exe
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\bin\Debug\Bill Managemenet System.pdb
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill Managemenet System.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill Managemenet System.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill_Managemenet_System.Form1.resources
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill_Managemenet_System.login.resources
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill_Managemenet_System.Properties.Resources.resources
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill Managemenet System.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill Managemenet System.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill Managemenet System.exe
+C:\Users\USER\source\repos\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill Managemenet System.pdb
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill Managemenet System.csproj.AssemblyReference.cache
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill_Managemenet_System.Customer_Details.resources
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill_Managemenet_System.Form1.resources
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill_Managemenet_System.Home.resources
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill_Managemenet_System.Juice_Details.resources
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill_Managemenet_System.login.resources
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill_Managemenet_System.Properties.Resources.resources
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill Managemenet System.csproj.GenerateResource.cache
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill Managemenet System.csproj.CoreCompileInputs.cache
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill Managemenet System.exe
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\obj\Debug\Bill Managemenet System.pdb
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\bin\Debug\juicebar.mdf
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\bin\Debug\juicebar_log.ldf
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\bin\Debug\Bill Managemenet System.exe.config
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\bin\Debug\Bill Managemenet System.exe
+C:\Users\cnims\Downloads\Bill Managemenet System\Bill Managemenet System\bin\Debug\Bill Managemenet System.pdb
